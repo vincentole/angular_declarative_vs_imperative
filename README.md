@@ -1,10 +1,11 @@
-# DeclarativeCodeExample
+# Declarative Reactive Code Example
 
-# Declarative vs Imperative code
+# Declarative Reactive vs Imperative code
 
 Declarative code is defined by single, self-contained declarations, whereas imperative code involves commands that modify state across multiple points in the program. Declarative code has the advantage that its clearer and more maintainable.
 
-The core idea is to manage data streams and propagate changes automatically. This paradigm gained popularity with the advent of frameworks like ReactiveX (Rx). The rise of reactive programming can be attributed to its ability to handle the complexities of asynchronous data flows. This is particularly useful in UI development, where user interactions and real-time data updates are prevalent. In practice, reactive programming allows developers to compose complex event-driven behaviors using simple, declarative constructs. This makes it easier to reason about the state and flow of data in an application, leading to more maintainable and scalable codebases.
+
+The core idea of Reactive programming is to manage data streams and propagate changes automatically. This paradigm gained popularity with the advent of frameworks like ReactiveX (Rx). The rise of reactive programming can be attributed to its ability to handle the complexities of asynchronous data flows. This is particularly useful in UI development, where user interactions and real-time data updates are prevalent. In practice, reactive programming allows developers to compose complex event-driven behaviors using simple, declarative constructs. This makes it easier to reason about the state and flow of data in an application, leading to more maintainable and scalable codebases.
 
 ## General flow 1
 
