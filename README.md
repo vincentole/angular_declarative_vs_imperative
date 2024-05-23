@@ -6,7 +6,7 @@ Declarative code is defined by single, self-contained declarations, whereas impe
 
 ## General flow 1
 
-The main point is that each declaration is referencing what it needs by itself. This means the variable/declaration is selfcontained.
+The main point is that in declarative coding each declaration is referencing what it needs by itself. This means the variable/declaration is selfcontained.
 
 <img width="400" alt="Screenshot 2024-05-23 at 23 39 03" src="https://github.com/vincentole/angular_declarative_vs_imperative/assets/63076449/4bb6c128-91ff-4f65-96e9-74f33799fe64">
 
